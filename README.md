@@ -4,10 +4,9 @@ All things PhD for chapter 1
 This readme will be updated with details as a chapter direction is developed. 
 
 ## Fortnightly meetings
-Supervisor meetings are currently scheduled fortnightly Tues 2pm in IMAS.332 (see outlook event).
-Technical meetings are currently scheduled for the alternate fortnightly Tues 2pm in IMAS.332 (see outlook event).
+Supervisor meetings are currently scheduled fortnightly Tues 2pm in IMAS.332 (see outlook event).A running issue of supervisor meeting outlines/notes is avaliable [here](https://github.com/SamuelJWatson/PhD_Chap1_HeatFlux/issues/1).
 
-A running issue of meeting outlines/notes is avaliable [here](https://github.com/SamuelJWatson/PhD_Chap1_HeatFlux/issues/1).
+Technical meetings are currently scheduled for the alternate fortnightly Tues 2pm in IMAS.332 (see outlook event). A running issue of tech meeting notes is avaliable [here](https://github.com/SamuelJWatson/PhD_Chap1_HeatFlux/issues/3).
 
 ## How it works
 All aspects of the chapter are tracked through [issues](https://github.com/SamuelJWatson/PhD_Chap1_HeatFlux/issues). Create an issue to represent each small task. Issues will develop to include discussion of analysis methods and figures associated with each task. To add a comment simple use the comment box at the bottom of the issue thread (you may have to scroll down). When an issue has reached a conclusion it will be closed and archived. 
