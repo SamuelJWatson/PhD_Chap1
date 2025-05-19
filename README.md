@@ -1,4 +1,4 @@
-# PhD_Chap1_HeatFlux
+# PhD_Chap1
 All things PhD for chapter 1 
 
 This readme will be updated with details as a chapter direction is developed. 
